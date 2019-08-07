@@ -3,7 +3,7 @@
 body {
   @include body-font;
   padding-top: 54px;
-  color: $gray-600;
+  color: $gray-900;
 }
 @media (min-width: 992px) {
   body {
@@ -27,10 +27,12 @@ h6 {
 h1 {
   font-size: 6rem;
   line-height: 5.5rem;
+ 
 }
 
 h2 {
   font-size: 3.5rem;
+  color: $primary !important;
 }
 
 h3 {
@@ -40,6 +42,10 @@ h3 {
 p.lead {
   font-size: 1.15rem;
   font-weight: 400;
+}
+
+a:hover{
+  text-decoration: none;
 }
 
 .subheading {
