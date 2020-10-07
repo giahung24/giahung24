@@ -372,6 +372,7 @@ h1, .h1 {
 
 h2, .h2 {
   font-size: 3.5rem;
+  color: #3b5998 !important
 }
 
 h3, .h3 {
@@ -10002,7 +10003,6 @@ h3 {
 }
 body {
   padding-top: 3.375rem;
-  color: #6c757d;
 }
 
 @media (min-width: 992px) {
