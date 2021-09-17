@@ -1,6 +1,6 @@
 # [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)
 
-This is the repo for my porfolio hosted at https://giahung24.github.io
+This is the repo for my site hosted at https://giahung24.github.io
 
 ## Copyright and License
 
